@@ -1,9 +1,15 @@
-# Sample Hardhat Project
+# Tanoshii Swap
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Tanoshii Swap is a Dex that operates on the Zetachain.
 
+## Users can:
+  #### - Add liquidity
+  #### - Swap
+  #### - Withdraw
+  #### - Staking
+ 
+---
 Try running some of the following tasks:
-
 ```shell
 npx hardhat help
 npx hardhat test
