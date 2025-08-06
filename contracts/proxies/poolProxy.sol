@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol";
  * @author Tanoshii_swap
  * 
  */
-contract poolProxy is ERC1967Proxy {
+contract PoolProxy is ERC1967Proxy {
   
   constructor(
     address _logic,
